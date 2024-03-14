@@ -148,3 +148,4 @@ public class QAElementsPageXPath extends Driver {
     }
 
 }
+
